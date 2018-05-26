@@ -1,0 +1,20 @@
+
+basic data type:-
+
+    numeric:-
+                   integral type:-
+                            byte (1 byte)                           
+                            short(2 bytes)
+                            int(4 bytes)
+                            long(8 bytes)
+                   floating point type:-
+                            float(4 bytes)
+                            double(8 bytes)   
+  non-numeric:-
+                    char (2 bytes)
+                    boolean(1 bit)      
+            
+refrence data type:-
+                   array
+                   class
+                   interface

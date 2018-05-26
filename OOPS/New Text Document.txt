@@ -1,0 +1,29 @@
+class Student{
+
+                     private int id;
+                     private String name;
+                    
+                     void setValue(int a,String b)
+                      {
+                         id=a;
+                         name=b;
+                       }
+                   void getValue()
+                      {
+                    System.out.println("id:"+id+",  name:"+name);
+
+                     }
+                  }
+
+ class StudentDemo{
+                           
+                          public static void main(String... args)
+                             {
+
+                            Student st=new Student();
+                            st.setValue(101,"raja");
+                            st.getValue();
+
+                            }
+
+                            }
